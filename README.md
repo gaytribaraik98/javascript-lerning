@@ -1,2 +1,2 @@
 # javascript-lerning
-JavaScript
+## JavaScript
